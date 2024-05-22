@@ -29,5 +29,5 @@ Payment Method Distribution
 
 Customer Entry Type Distribution have been examined.
 
-###
+##
 ANOVA,Tukey HSD (Honestly Significant Difference) test and Permutation Tests: ANOVA and permutation tests were conducted to analyze whether sales were significant according to device type, payment method, gender, product category and order priority.
